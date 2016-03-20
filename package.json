@@ -1,0 +1,23 @@
+{
+  "name": "chaas",
+  "version": "1.0.0",
+  "description": "A Chat as a reactive framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "javaspecs"
+  },
+  "keywords": [
+    "chat",
+    "service",
+    "microservice"
+  ],
+  "author": "Perfect Makanju <damiperfect@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "~2.2.0",
+    "express": "~4.13.1",
+    "mongoose": "~4.1.11",
+    "ws": "~0.8.0"
+  }
+
+}
