@@ -14,10 +14,9 @@
   "author": "Perfect Makanju <damiperfect@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "debug": "~2.2.0",
-    "express": "~4.13.1",
-    "mongoose": "~4.1.11",
-    "rx": "~4.1.0",
-    "ws": "~0.8.0"
+    "debug": "^2.2.0",
+    "express": "^4.13.4",
+    "rx": "^4.1.0",
+    "ws": "^1.0.1"
   }
 }
