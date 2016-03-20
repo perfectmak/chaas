@@ -25,4 +25,4 @@ Then send a pull request for it to be integrated into the codebase.
 
 ## License
 
-This project is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+This project is open-sourced software licensed under the [GNU GPLv3 license](https://opensource.org/licenses/GPL-3.0)
