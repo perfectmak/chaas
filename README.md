@@ -10,8 +10,19 @@ In its early stage, it is mean't to be simple and should fulfill the following c
 - CRUD Management of User Presence
 - Daz all
 
-## Requirments
+## Requirements
+
 The software requirements for setting up this project is:
 - Node
 - MongoDB
 - Daz all
+
+## Contribution
+
+You are welcome to contribute to this code.
+Just fork the repo, and only contribute to the dev branch.
+Then send a pull request for it to be integrated into the codebase.
+
+## License
+
+This project is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
