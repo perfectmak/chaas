@@ -4,6 +4,7 @@
   "description": "A Chat as a reactive framework",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "javaspecs"
   },
   "keywords": [
