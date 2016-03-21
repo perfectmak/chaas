@@ -1,6 +1,5 @@
 var server = require('http').createServer();
 const express = require('express');
-const rx = require('rx');
 
 const chatsRoute = require('./services/chats/route');
 const presenceRoute = require('./services/presence/route');
