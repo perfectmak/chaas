@@ -1,5 +1,7 @@
 # Chat As A Service
 
+[![StyleCI](https://styleci.io/repos/54343425/shield)](https://styleci.io/repos/54343425)
+
 This is an attempt for me to learn and gain an in-depth knowledge of nodejs and the javascript Reactive extension (RX).
 
 The *Chaas* project is mean't to be a micro-service based framework, to make it easily setup realtime chating in your application.
