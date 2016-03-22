@@ -12,6 +12,9 @@ In its early stage, it is mean't to be simple and should fulfill the following c
 - CRUD Management of User Presence
 - Daz all
 
+To get a quick overview of the principle and structure of how the architecture of each micro-service will be structured,
+I advice you read this post [Reactive MVC and Virtual Dom](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom).
+
 ## Requirements
 
 The software requirements for setting up this project is:
