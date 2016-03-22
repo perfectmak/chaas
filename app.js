@@ -7,7 +7,7 @@ const usersRoute = require('./services/users/route');
 
 const app = express();
 
-//routes
+//routes to each microservice
 app.use('/users', usersRoute);
 app.use('/chats', chatsRoute);
 app.use('/presence', presenceRoute);
